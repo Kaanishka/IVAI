@@ -4,4 +4,3 @@
 .env
 .env.local
 .env.*.local
-supabase-config.local.js
